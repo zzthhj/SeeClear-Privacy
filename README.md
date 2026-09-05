@@ -8,21 +8,24 @@
 
 **Last updated: September 5, 2026**
 
-**SeeClear** helps people tell colors apart. Photos, camera frames, recognition, and analysis stay on your device. We do not upload them.
+1. **Purpose:** SeeClear is a color-vision aid. It helps you tell colors apart with on-device recognition, enhancement, photo scoring, and outfit color checks.
 
-The App is not fully offline. It may contact Apple for In-App Purchases, and it may send limited anonymous usage statistics as described below.
+2. **Data privacy:** SeeClear does not collect, store, sell, or share your personal data. The App is designed for offline use. The only network requests it makes are the limited anonymous usage statistics in section 3.
 
-To improve the product, SeeClear records anonymous feature-use and purchase-funnel events through **Aptabase** (EU). Examples: which feature you opened, whether a session produced a result, how long you stayed (as a time range), whether a paywall appeared, and whether a purchase finished. Events use fixed choices only. They do not include photos, specific recognized colors, calibration answers, your name, email, or an advertising ID.
+3. **Anonymous usage statistics:** To improve the product, SeeClear records anonymous feature-use and purchase-funnel events through the third-party service **Aptabase** (EU). Examples: which feature you opened, whether a session produced a result, how long you stayed (as a time range), whether a paywall appeared, and whether a purchase finished. Events use fixed choices and time ranges only. They do not include photos, specific recognized colors, calibration answers, personal identity, or an advertising ID. If you install after tapping an App Store ad, Apple’s official attribution API may return source details such as keyword IDs and country, so we can see how ads perform. None of this can be linked to you as a person. You can turn off these statistics by restricting network access for SeeClear in iOS Settings.
 
-Aptabase’s SDK may attach basic technical data such as a temporary session ID, app/OS version, device model, and language. Aptabase may briefly use IP address and User-Agent to infer a coarse region. This cannot be used to identify you as a person. See the [Aptabase Privacy Policy](https://aptabase.com/legal/privacy).
+4. **On-device data:** Photos, camera frames, recognition, enhancement, scoring, and outfit analysis stay on your device. Preferences, free-use counts, and Pro status are also stored locally.
 
-If you install after tapping an App Store ad, Apple’s attribution API may return whether the install came from an ad, the country/region, and numeric campaign/keyword IDs. We use this to measure ad performance. It does not include the search phrase itself and cannot identify you.
+Your photos and results are not uploaded to any server.
+No account is required.
+We do not track what you do outside this App.
+Apple handles In-App Purchases. We do not receive your card number or billing address.
 
-Apple processes all In-App Purchases. We do not receive your card number or billing address.
+5. **Camera, photos, and haptics:** SeeClear may use the camera, photo library, and optional haptics on your device. These stay on-device. You can manage permissions in iOS Settings.
 
-There are no ads in the App, no account, and no tracking across other companies’ apps. You can disable analytics by turning off network access for SeeClear in iOS Settings.
+6. **Not medical:** SeeClear is not a medical app. It does not provide medical advice, diagnosis, or treatment. Color recognition and calibration are for setting this App only.
 
-Questions: **rtx3070757@gmail.com**
+7. **Support:** rtx3070757@gmail.com
 
 ---
 
@@ -30,21 +33,24 @@ Questions: **rtx3070757@gmail.com**
 
 **最后更新：2026 年 9 月 5 日**
 
-**SeeClear** 用于辅助辨色。照片、相机画面、识别与分析结果都在本机处理，不会上传。
+1. **用途：** SeeClear 是一款辨色辅助工具，提供颜色识别、色彩增强、照片评分和穿搭配色等功能。
 
-本应用不是完全离线：内购会请求 Apple；另外会发送下面所述的有限匿名使用统计。
+2. **数据隐私：** SeeClear 不会收集、存储、出售或分享您的任何个人资料。App 专为离线使用而设计，唯一发出的网络请求是第 3 节所述的有限匿名使用统计。
 
-为了改进产品，SeeClear 会通过第三方服务 **Aptabase**（欧盟）记录匿名的功能使用与购买漏斗，例如打开了哪个功能、一次使用有没有得到结果、停留时长区间、是否打开付费墙或完成购买。这些事件只有固定选项，不包含照片、识别出的具体颜色、校准答题内容、姓名、邮箱或广告标识符。
+3. **匿名使用统计：** 为改进产品，SeeClear 会通过第三方服务 **Aptabase**（欧盟）记录匿名功能使用与购买漏斗事件，例如使用了哪个功能、一次使用有没有得到结果、停留时长区间、是否打开付费墙或完成购买。这些事件只包含固定选项与时间区间，不包含照片、识别出的具体颜色、校准答题内容、个人身份信息或广告标识符。若您点击 App Store 广告后安装，苹果官方归因接口会返回关键词编号与国家等来源信息，用于了解广告效果。所有统计均无法关联到您个人。您可以在系统设置中限制网络访问来停用统计上报。
 
-Aptabase 的 SDK 可能附带临时会话标识、应用/系统版本、设备型号和语言。其服务可能短暂使用 IP 和 User-Agent 来估计大致地区。这些无法关联到你个人。详见 [Aptabase 隐私政策](https://aptabase.com/legal/privacy)。
+4. **本机数据：** 照片、相机画面、识别、增强、评分与穿搭分析都在您的设备本机完成。偏好设置、免费次数和 Pro 状态也保存在本机。
 
-若你点了 App Store 广告后安装，苹果官方归因接口可能返回是否来自广告、国家/地区，以及活动/关键词编号，用于了解广告效果。不含搜索词原文，也无法关联到你个人。
+您的照片与结果不会上传到任何服务器。
+无需注册账号。
+我们不会跟踪您在 App 之外的个人行为。
+所有 App 内购买由 Apple 处理，我们不会收到您的卡号或账单地址。
 
-所有 App 内购买由 Apple 处理。我们不会收到你的卡号或账单地址。
+5. **相机、相册与触觉：** SeeClear 可能使用本机相机、相册和可选的触觉反馈。均在您的设备本机完成。您可以在系统设置中管理相关权限。
 
-本应用无广告、无账号，也不会跨其他公司的应用跟踪你。可在系统设置中关闭 SeeClear 的网络访问，以停用统计上报。
+6. **非医疗用途：** SeeClear 不是医疗类 App，不提供医疗建议、诊断或治疗。颜色识别与校准仅用于设置本 App。
 
-联系：**rtx3070757@gmail.com**
+7. **技术支持：** rtx3070757@gmail.com
 
 ---
 
@@ -52,21 +58,24 @@ Aptabase 的 SDK 可能附带临时会话标识、应用/系统版本、设备�
 
 **最後更新：2026 年 9 月 5 日**
 
-**SeeClear** 用於輔助辨色。照片、相機畫面、辨識與分析結果都在本機處理，不會上傳。
+1. **用途：** SeeClear 是一款辨色輔助工具，提供顏色識別、色彩增強、照片評分和穿搭配色等功能。
 
-本應用不是完全離線：內購會請求 Apple；另外會發送以下有限的匿名使用統計。
+2. **數據隱私：** SeeClear 不會收集、儲存、出售或分享您的任何個人資料。App 專為離線使用而設計，唯一發出的網路請求是第 3 節所述的有限匿名使用統計。
 
-為改進產品，SeeClear 會透過第三方服務 **Aptabase**（歐盟）記錄匿名功能使用與購買漏斗，例如使用了哪個功能、一次使用有沒有得到結果、停留時長區間、是否打開付費牆或完成購買。這些事件只有固定選項，不包含照片、辨識出的具體顏色、校正答題內容、姓名、電子郵件或廣告識別碼。
+3. **匿名使用統計：** 為改進產品，SeeClear 會透過第三方服務 **Aptabase**（歐盟）記錄匿名功能使用與購買漏斗事件，例如使用了哪個功能、一次使用有沒有得到結果、停留時長區間、是否打開付費牆或完成購買。這些事件只包含固定選項與時間區間，不包含照片、辨識出的具體顏色、校正答題內容、個人身分資訊或廣告識別碼。若您點擊 App Store 廣告後安裝，蘋果官方歸因介面會回傳關鍵詞編號與國家等來源資訊，用於了解廣告效果。所有統計均無法關聯到您個人。您可以在系統設定中限制網路存取來停用統計上報。
 
-Aptabase 的 SDK 可能附帶臨時工作階段識別、應用/系統版本、裝置型號與語言。其服務可能短暫使用 IP 與 User-Agent 來估計大致地區。這些無法關聯到你個人。詳見 [Aptabase 隱私權政策](https://aptabase.com/legal/privacy)。
+4. **本機資料：** 照片、相機畫面、辨識、增強、評分與穿搭分析都在您的裝置本機完成。偏好設定、免費次數和 Pro 狀態也保存在本機。
 
-若你點了 App Store 廣告後安裝，蘋果官方歸因介面可能回傳是否來自廣告、國家/地區，以及活動/關鍵詞編號，用於了解廣告效果。不含搜尋詞原文，也無法關聯到你個人。
+您的照片與結果不會上傳到任何伺服器。
+無需註冊帳號。
+我們不會追蹤您在 App 之外的個人行為。
+所有 App 內購買由 Apple 處理，我們不會收到您的卡號或帳單地址。
 
-所有 App 內購買由 Apple 處理。我們不會收到你的卡號或帳單地址。
+5. **相機、相簿與觸覺：** SeeClear 可能使用本機相機、相簿和可選的觸覺回饋。均在您的裝置本機完成。您可以在系統設定中管理相關權限。
 
-本應用無廣告、無帳號，也不會跨其他公司的應用追蹤你。可在系統設定中關閉 SeeClear 的網路存取，以停用統計上報。
+6. **非醫療用途：** SeeClear 不是醫療類 App，不提供醫療建議、診斷或治療。顏色辨識與校正僅用於設定本 App。
 
-聯絡：**rtx3070757@gmail.com**
+7. **技術支持：** rtx3070757@gmail.com
 
 ---
 
@@ -74,21 +83,24 @@ Aptabase 的 SDK 可能附帶臨時工作階段識別、應用/系統版本、�
 
 **最終更新：2026年9月5日**
 
-**SeeClear** は色の見分けを支援します。写真・カメラ映像・認識・分析は端末内で処理し、アップロードしません。
+1. **用途：** SeeClear は色の見分けを助けるアプリです。色認識、色の見やすさ改善、写真スコア、コーデ配色などを提供します。
 
-完全オフラインではありません。アプリ内課金は Apple に接続し、下記の限定的な匿名利用統計を送信することがあります。
+2. **データの取り扱い：** SeeClear は個人情報を収集・保存・販売・共有しません。オフライン利用を前提としており、通信は第 3 節の限定的な匿名利用統計のみです。
 
-製品改善のため、**Aptabase**（EU）経由で、開いた機能、結果の有無、滞在時間の区間、ペイウォール表示、購入完了など、固定の選択肢のみを記録します。写真、具体的な色、校正の回答内容、氏名、メール、広告IDは含めません。
+3. **匿名の利用統計：** 製品改善のため、第三者サービス **Aptabase**（EU）経由で、開いた機能、結果の有無、滞在時間の区間、ペイウォール表示、購入完了など、固定の選択肢と時間区間のみを記録します。写真、具体的な色、校正の回答、身分情報、広告IDは含めません。App Store 広告をタップしてインストールした場合、Apple の公式アトリビューション API がキーワード番号や国などの出典を返すことがあり、広告効果の把握に使います。個人には結びつきません。iOS 設定で SeeClear の通信を制限すると統計を止められます。
 
-Aptabase の SDK は一時的なセッションID、アプリ/OSバージョン、機種、言語を付与することがあります。IP と User-Agent からおおよその地域を推定することがあります。個人の特定には使えません。[Aptabase プライバシーポリシー](https://aptabase.com/legal/privacy)
+4. **端末内データ：** 写真、カメラ、認識、改善、スコア、コーデ分析は端末内で処理します。設定、無料回数、Pro 状態も端末に保存します。
 
-App Store 広告をタップしてインストールした場合、Apple の公式アトリビューション API が広告由来かどうか、国/地域、キャンペーン/キーワード番号を返すことがあります。広告効果の把握に使い、検索語句そのものは含みません。個人の特定にも使えません。
+写真や結果はサーバーに上げません。
+アカウント登録は不要です。
+アプリ外の行動は追跡しません。
+アプリ内課金は Apple が処理し、カード番号や請求先は受け取りません。
 
-アプリ内課金は Apple が処理します。カード番号や請求先は受け取りません。
+5. **カメラ・写真・触覚：** カメラ、写真ライブラリ、任意の触覚フィードバックを使うことがあります。いずれも端末内です。権限は iOS 設定で管理できます。
 
-広告・アカウントはなく、他社アプリを横断して追跡しません。iOS 設定で SeeClear の通信をオフにすると統計を止められます。
+6. **医療目的ではありません：** 医療アドバイス、診断、治療は行いません。色認識と校正は本アプリの設定用です。
 
-連絡先：**rtx3070757@gmail.com**
+7. **サポート：** rtx3070757@gmail.com
 
 ---
 
@@ -96,21 +108,24 @@ App Store 広告をタップしてインストールした場合、Apple の公�
 
 **최종 업데이트: 2026년 9월 5일**
 
-**SeeClear**는 색 구분을 돕습니다. 사진, 카메라, 인식, 분석은 기기에서만 처리되며 업로드되지 않습니다.
+1. **용도:** SeeClear는 색 구분을 돕는 앱입니다. 색 인식, 색상 개선, 사진 점수, 코디 색상을 제공합니다.
 
-완전히 오프라인은 아닙니다. 인앱 구매는 Apple에 연결되며, 아래의 제한된 익명 사용 통계를 보낼 수 있습니다.
+2. **데이터 프라이버시:** SeeClear는 개인정보를 수집·저장·판매·공유하지 않습니다. 오프라인 사용을 전제로 하며, 나가는 네트워크 요청은 3절의 제한된 익명 사용 통계뿐입니다.
 
-제품 개선을 위해 **Aptabase**(EU)로 어떤 기능을 열었는지, 결과가 있었는지, 체류 시간 구간, 페이월 표시, 구매 완료 등 고정 선택지만 기록합니다. 사진, 구체적인 색, 교정 답변, 이름, 이메일, 광고 ID는 포함하지 않습니다.
+3. **익명 사용 통계:** 제품 개선을 위해 제3자 서비스 **Aptabase**(EU)로 어떤 기능을 열었는지, 결과가 있었는지, 체류 시간 구간, 페이월 표시, 구매 완료 등 고정 선택지와 시간 구간만 기록합니다. 사진, 구체적인 색, 교정 답변, 신원, 광고 ID는 포함하지 않습니다. App Store 광고를 탭한 뒤 설치하면 Apple 공식 어트리뷰션 API가 키워드 번호와 국가 등 출처를 반환할 수 있으며, 광고 효과 확인에 씁니다. 개인과 연결되지 않습니다. 설정에서 SeeClear 네트워크를 제한하면 통계를 끌 수 있습니다.
 
-Aptabase SDK는 임시 세션 ID, 앱/OS 버전, 기기 모델, 언어를 붙일 수 있습니다. IP와 User-Agent로 대략적인 지역을 추정할 수 있습니다. 개인을 식별할 수 없습니다. [Aptabase 개인정보 처리방침](https://aptabase.com/legal/privacy)
+4. **기기 내 데이터:** 사진, 카메라, 인식, 개선, 점수, 코디 분석은 기기에서 처리됩니다. 설정, 무료 횟수, Pro 상태도 기기에 저장됩니다.
 
-App Store 광고를 탭한 뒤 설치하면 Apple 공식 어트리뷰션 API가 광고 유입 여부, 국가/지역, 캠페인/키워드 번호를 반환할 수 있습니다. 광고 효과 측정에 쓰이며 검색어 원문과 개인 식별은 포함하지 않습니다.
+사진과 결과는 서버에 올라가지 않습니다.
+계정은 필요 없습니다.
+앱 밖의 행동은 추적하지 않습니다.
+인앱 구매는 Apple이 처리하며 카드 번호나 청구지는 받지 않습니다.
 
-인앱 구매는 Apple이 처리합니다. 카드 번호나 청구지는 받지 않습니다.
+5. **카메라, 사진, 햅틱:** 카메라, 사진첩, 선택적 햅틱을 쓸 수 있습니다. 모두 기기에서 이루어집니다. 권한은 설정에서 관리할 수 있습니다.
 
-광고와 계정은 없으며 다른 회사 앱을 넘나들며 추적하지 않습니다. iOS 설정에서 SeeClear 네트워크를 끄면 통계를 중지할 수 있습니다.
+6. **의료 목적 아님:** 의료 조언, 진단, 치료를 제공하지 않습니다. 색 인식과 교정은 이 앱 설정용입니다.
 
-문의: **rtx3070757@gmail.com**
+7. **지원:** rtx3070757@gmail.com
 
 ---
 
@@ -118,21 +133,24 @@ App Store 광고를 탭한 뒤 설치하면 Apple 공식 어트리뷰션 API가 
 
 **Última actualización: 5 de septiembre de 2026**
 
-**SeeClear** ayuda a distinguir colores. Fotos, cámara, reconocimiento y análisis se procesan en el dispositivo y no se suben.
+1. **Uso:** SeeClear ayuda a distinguir colores. Incluye reconocimiento, mejora de color, puntuación de fotos y colores de ropa.
 
-La app no es totalmente sin conexión: las compras in-app contactan a Apple, y puede enviar estadísticas anónimas limitadas.
+2. **Privacidad:** SeeClear no recopila, almacena, vende ni comparte tus datos personales. La app está pensada para usarse sin conexión. Las únicas peticiones de red son las estadísticas anónimas limitadas de la sección 3.
 
-Para mejorar el producto, **Aptabase** (UE) registra qué función usaste, si hubo un resultado, un rango de duración, si se mostró un paywall o si se completó una compra. Solo opciones fijas. No incluye fotos, colores concretos, respuestas de calibración, nombre, correo ni ID de publicidad.
+3. **Estadísticas anónimas:** Para mejorar el producto, **Aptabase** (UE) registra qué función usaste, si hubo un resultado, un rango de duración, si se mostró un paywall o si se completó una compra. Solo opciones fijas e intervalos de tiempo. No incluye fotos, colores concretos, respuestas de calibración, identidad personal ni ID de publicidad. Si instalas tras pulsar un anuncio de App Store, la API oficial de atribución de Apple puede devolver el ID de palabra clave y el país, para medir anuncios. Nada de esto se asocia a ti. Puedes desactivar las estadísticas restringiendo la red de SeeClear en Ajustes.
 
-El SDK puede añadir un ID de sesión temporal, versión de la app/sistema, modelo y idioma. Aptabase puede usar IP y User-Agent para una región aproximada. No permite identificarte. [Política de Aptabase](https://aptabase.com/legal/privacy)
+4. **Datos en el dispositivo:** Fotos, cámara, reconocimiento, mejora, puntuación y análisis de ropa se procesan en el dispositivo. Preferencias, usos gratis y el estado Pro también se guardan ahí.
 
-Si instalas tras pulsar un anuncio de App Store, la API oficial de atribución de Apple puede indicar si vino de un anuncio, el país/región y IDs numéricos de campaña/palabra clave. Lo usamos para medir anuncios. No incluye la frase de búsqueda ni te identifica.
+Tus fotos y resultados no se suben a ningún servidor.
+No hace falta una cuenta.
+No rastreamos lo que haces fuera de la app.
+Apple gestiona las compras. No recibimos tu tarjeta ni dirección de facturación.
 
-Apple procesa las compras. No recibimos tu tarjeta ni dirección de facturación.
+5. **Cámara, fotos y háptica:** SeeClear puede usar la cámara, la fototeca y la háptica opcional. Todo ocurre en el dispositivo. Los permisos se gestionan en Ajustes.
 
-Sin anuncios, sin cuenta y sin seguimiento en apps de otras empresas. Puedes desactivar las estadísticas cortando la red de SeeClear en Ajustes.
+6. **No es médico:** No ofrece consejo, diagnóstico ni tratamiento médico. El reconocimiento y la calibración sirven solo para configurar esta app.
 
-Contacto: **rtx3070757@gmail.com**
+7. **Soporte:** rtx3070757@gmail.com
 
 ---
 
@@ -140,21 +158,24 @@ Contacto: **rtx3070757@gmail.com**
 
 **Dernière mise à jour : 5 septembre 2026**
 
-**SeeClear** aide à distinguer les couleurs. Photos, caméra, reconnaissance et analyses restent sur l’appareil et ne sont pas envoyées.
+1. **Usage :** SeeClear aide à distinguer les couleurs : reconnaissance, amélioration, score photo et couleurs de tenue.
 
-L’app n’est pas entièrement hors ligne : les achats in-app passent par Apple, et des statistiques anonymes limitées peuvent être envoyées.
+2. **Confidentialité :** SeeClear ne collecte, ne stocke, ne vend ni ne partage vos données personnelles. L’app est conçue pour un usage hors ligne. Les seules requêtes réseau sont les statistiques anonymes limitées de la section 3.
 
-Pour améliorer le produit, **Aptabase** (UE) enregistre quelle fonction vous avez ouverte, si une session a donné un résultat, une durée par tranche, l’affichage d’un paywall ou un achat. Uniquement des choix fixes. Pas de photos, de couleurs précises, de réponses de calibration, de nom, d’e-mail ni d’identifiant publicitaire.
+3. **Statistiques anonymes :** Pour améliorer le produit, **Aptabase** (UE) enregistre quelle fonction vous avez ouverte, si une session a donné un résultat, une durée par tranche, l’affichage d’un paywall ou un achat. Uniquement des choix fixes et des durées. Pas de photos, de couleurs précises, de réponses de calibration, d’identité ni d’identifiant publicitaire. Si vous installez après une pub App Store, l’API d’attribution d’Apple peut renvoyer le numéro de mot-clé et le pays, pour mesurer les pubs. Rien de tout cela ne vous identifie. Vous pouvez couper le réseau de SeeClear dans Réglages pour arrêter les statistiques.
 
-Le SDK peut joindre un identifiant de session temporaire, la version de l’app/OS, le modèle et la langue. Aptabase peut utiliser l’IP et le User-Agent pour une région approximative. Cela ne permet pas de vous identifier. [Politique Aptabase](https://aptabase.com/legal/privacy)
+4. **Données sur l’appareil :** Photos, caméra, reconnaissance, amélioration, score et analyse de tenue restent sur l’appareil, ainsi que les préférences, les essais gratuits et le statut Pro.
 
-Si vous installez après un pub App Store, l’API d’attribution d’Apple peut indiquer si l’installation vient d’une pub, le pays/région et des identifiants numériques de campagne/mot-clé. Nous l’utilisons pour mesurer les pubs. Pas de phrase de recherche, pas d’identification personnelle.
+Vos photos et résultats ne sont envoyés à aucun serveur.
+Aucun compte n’est requis.
+Nous ne suivons pas ce que vous faites hors de l’app.
+Apple traite les achats. Nous ne recevons ni carte ni adresse de facturation.
 
-Apple traite les achats. Nous ne recevons ni numéro de carte ni adresse de facturation.
+5. **Caméra, photos et retour haptique :** L’app peut utiliser la caméra, la photothèque et un retour haptique optionnel, sur l’appareil. Les autorisations se gèrent dans Réglages.
 
-Pas de publicité, pas de compte, pas de suivi inter-apps. Vous pouvez couper le réseau de SeeClear dans Réglages pour arrêter les statistiques.
+6. **Pas un usage médical :** Pas de conseil, diagnostic ou traitement médical. La reconnaissance et la calibration servent uniquement à régler cette app.
 
-Contact : **rtx3070757@gmail.com**
+7. **Support :** rtx3070757@gmail.com
 
 ---
 
@@ -162,21 +183,24 @@ Contact : **rtx3070757@gmail.com**
 
 **Zuletzt aktualisiert: 5. September 2026**
 
-**SeeClear** hilft beim Unterscheiden von Farben. Fotos, Kamera, Erkennung und Analysen bleiben auf dem Gerät und werden nicht hochgeladen.
+1. **Zweck:** SeeClear hilft beim Unterscheiden von Farben: Erkennung, Farbverbesserung, Foto-Bewertung und Outfit-Farben.
 
-Die App ist nicht vollständig offline: In-App-Käufe laufen über Apple; zusätzlich können begrenzte anonyme Nutzungsstatistiken gesendet werden.
+2. **Datenschutz:** SeeClear erhebt, speichert, verkauft oder teilt keine personenbezogenen Daten. Die App ist für die Offline-Nutzung gedacht. Die einzigen Netzwerkanfragen sind die begrenzten anonymen Nutzungsstatistiken in Abschnitt 3.
 
-Zur Produktverbesserung erfasst **Aptabase** (EU) z. B. welche Funktion geöffnet wurde, ob ein Ergebnis entstand, eine Zeitspanne, ob eine Paywall erschien oder ein Kauf abgeschlossen wurde. Nur feste Optionen. Keine Fotos, konkreten Farben, Kalibrierungsantworten, Namen, E-Mails oder Werbe-IDs.
+3. **Anonyme Nutzungsstatistik:** Zur Produktverbesserung erfasst **Aptabase** (EU) z. B. welche Funktion geöffnet wurde, ob ein Ergebnis entstand, eine Zeitspanne, ob eine Paywall erschien oder ein Kauf abgeschlossen wurde. Nur feste Optionen und Zeitspannen. Keine Fotos, konkreten Farben, Kalibrierungsantworten, Identitätsdaten oder Werbe-IDs. Nach Installation über eine App-Store-Anzeige kann Apples Attribution-API Keyword-IDs und Land liefern, um Anzeigen zu messen. Das lässt sich nicht Ihnen zuordnen. Statistik lässt sich deaktivieren, indem Sie die Netzfreigabe für SeeClear in den Einstellungen aus.
 
-Das SDK kann eine temporäre Sitzungs-ID, App-/OS-Version, Gerätemodell und Sprache mitsenden. Aptabase kann IP und User-Agent für eine grobe Region nutzen. Eine Personenidentifikation ist damit nicht möglich. [Aptabase-Datenschutz](https://aptabase.com/legal/privacy)
+4. **Daten auf dem Gerät:** Fotos, Kamera, Erkennung, Verbesserung, Bewertung und Outfit-Analyse bleiben auf dem Gerät. Einstellungen, Gratis-Nutzungen und Pro-Status ebenfalls.
 
-Nach Installation über eine App-Store-Anzeige kann Apples Attribution-API liefern, ob die Installation von einer Anzeige stammt, Land/Region sowie numerische Kampagnen-/Keyword-IDs. Nur zur Anzeigenmessung; kein Suchbegriff, keine Personenidentifikation.
+Ihre Fotos und Ergebnisse werden auf keinen Server hochgeladen.
+Kein Konto nötig.
+Wir verfolgen nicht, was Sie außerhalb der App tun.
+Käufe verarbeitet Apple. Wir erhalten keine Karten- oder Rechnungsdaten.
 
-Apple verarbeitet Käufe. Wir erhalten keine Karten- oder Rechnungsdaten.
+5. **Kamera, Fotos und Haptik:** SeeClear kann Kamera, Mediathek und optionale Haptik nutzen – alles auf dem Gerät. Berechtigungen verwalten Sie in den Einstellungen.
 
-Keine Werbung, kein Konto, kein Tracking in Apps anderer Anbieter. Statistik lässt sich deaktivieren, indem Sie die Netzfreigabe für SeeClear in den iOS-Einstellungen aus.
+6. **Kein Medizinprodukt:** Keine medizinische Beratung, Diagnose oder Behandlung. Erkennung und Kalibrierung dienen nur der Einstellung dieser App.
 
-Kontakt: **rtx3070757@gmail.com**
+7. **Support:** rtx3070757@gmail.com
 
 ---
 
@@ -184,21 +208,24 @@ Kontakt: **rtx3070757@gmail.com**
 
 **Última atualização: 5 de setembro de 2026**
 
-O **SeeClear** ajuda a distinguir cores. Fotos, câmara, reconhecimento e análises ficam no dispositivo e não são carregados.
+1. **Utilização:** O SeeClear ajuda a distinguir cores: reconhecimento, melhoria de cores, pontuação de fotos e cores da roupa.
 
-A app não é totalmente offline: as compras in-app contactam a Apple e podem ser enviadas estatísticas anónimas limitadas.
+2. **Privacidade:** O SeeClear não recolhe, armazena, vende nem partilha os seus dados pessoais. A app foi pensada para uso offline. Os únicos pedidos de rede são as estatísticas anónimas limitadas da secção 3.
 
-Para melhorar o produto, a **Aptabase** (UE) regista que função abriu, se houve resultado, um intervalo de duração, se apareceu um paywall ou se uma compra foi concluída. Só opções fixas. Sem fotos, cores concretas, respostas de calibração, nome, e-mail ou ID de publicidade.
+3. **Estatísticas anónimas:** Para melhorar o produto, a **Aptabase** (UE) regista que função abriu, se houve resultado, um intervalo de duração, se apareceu um paywall ou se uma compra foi concluída. Só opções fixas e intervalos de tempo. Sem fotos, cores concretas, respostas de calibração, identidade ou ID de publicidade. Se instalar após um anúncio da App Store, a API oficial de atribuição da Apple pode devolver o ID da palavra-chave e o país, para medir anúncios. Nada disto o identifica. Pode desativar as estatísticas ao restringir a rede do SeeClear em Definições.
 
-O SDK pode juntar um ID de sessão temporário, versão da app/sistema, modelo e idioma. A Aptabase pode usar IP e User-Agent para uma região aproximada. Isto não permite identificá-lo. [Política da Aptabase](https://aptabase.com/legal/privacy)
+4. **Dados no dispositivo:** Fotos, câmara, reconhecimento, melhoria, pontuação e análise de roupa ficam no dispositivo. Preferências, utilizações grátis e o estado Pro também.
 
-Se instalar após tocar num anúncio da App Store, a API oficial de atribuição da Apple pode indicar se veio de um anúncio, o país/região e IDs numéricos de campanha/palavra-chave. Usamos isto para medir anúncios. Não inclui a frase de pesquisa nem o identifica.
+As suas fotos e resultados não são carregados para nenhum servidor.
+Não é necessária uma conta.
+Não seguimos o que faz fora da app.
+A Apple trata as compras. Não recebemos o cartão nem a morada de faturação.
 
-A Apple processa as compras. Não recebemos o seu cartão nem morada de faturação.
+5. **Câmara, fotos e háptica:** A app pode usar a câmara, a fototeca e háptica opcional, no dispositivo. As permissões gerem-se em Definições.
 
-Sem anúncios, sem conta e sem seguimento noutras apps. Pode desativar as estatísticas ao cortar a rede do SeeClear em Definições.
+6. **Não é médico:** Não dá aconselhamento, diagnóstico ou tratamento médico. O reconhecimento e a calibração servem só para configurar esta app.
 
-Contacto: **rtx3070757@gmail.com**
+7. **Suporte:** rtx3070757@gmail.com
 
 ---
 
@@ -206,21 +233,24 @@ Contacto: **rtx3070757@gmail.com**
 
 **Ultimo aggiornamento: 5 settembre 2026**
 
-**SeeClear** aiuta a distinguere i colori. Foto, fotocamera, riconoscimento e analisi restano sul dispositivo e non vengono caricati.
+1. **Uso:** SeeClear aiuta a distinguere i colori: riconoscimento, miglioramento, valutazione foto e colori outfit.
 
-L’app non è completamente offline: gli acquisti in-app passano da Apple e possono essere inviate statistiche anonime limitate.
+2. **Privacy:** SeeClear non raccoglie, memorizza, vende né condivide i tuoi dati personali. L’app è pensata per l’uso offline. Le uniche richieste di rete sono le statistiche anonime limitate della sezione 3.
 
-Per migliorare il prodotto, **Aptabase** (UE) registra quale funzione hai aperto, se c’è stato un risultato, un intervallo di durata, se è apparso un paywall o se un acquisto è stato completato. Solo opzioni fisse. Niente foto, colori specifici, risposte di calibrazione, nome, e-mail o ID pubblicitario.
+3. **Statistiche anonime:** Per migliorare il prodotto, **Aptabase** (UE) registra quale funzione hai aperto, se c’è stato un risultato, un intervallo di durata, se è apparso un paywall o se un acquisto è stato completato. Solo opzioni fisse e intervalli di tempo. Niente foto, colori specifici, risposte di calibrazione, identità o ID pubblicitario. Se installi dopo un annuncio App Store, l’API ufficiale di attribuzione Apple può restituire ID della parola chiave e Paese, per misurare gli annunci. Nulla di questo ti identifica. Puoi disattivare le statistiche togliendo la rete a SeeClear in Impostazioni.
 
-L’SDK può aggiungere un ID di sessione temporaneo, versione app/OS, modello e lingua. Aptabase può usare IP e User-Agent per una regione approssimativa. Non permette di identificarti. [Informativa Aptabase](https://aptabase.com/legal/privacy)
+4. **Dati sul dispositivo:** Foto, fotocamera, riconoscimento, miglioramento, valutazione e analisi outfit restano sul dispositivo. Anche preferenze, utilizzi gratis e stato Pro.
 
-Se installi dopo un annuncio App Store, l’API ufficiale di attribuzione Apple può indicare se proviene da un annuncio, il paese/regione e ID numerici di campagna/parola chiave. Lo usiamo per misurare gli annunci. Non include la frase di ricerca né ti identifica.
-
+Le tue foto e i risultati non vengono caricati su nessun server.
+Non serve un account.
+Non tracciamo cosa fai fuori dall’app.
 Apple gestisce gli acquisti. Non riceviamo carta o indirizzo di fatturazione.
 
-Niente annunci, niente account, niente tracciamento su app di altre aziende. Puoi disattivare le statistiche togliendo la rete a SeeClear in Impostazioni.
+5. **Fotocamera, foto e hapticos:** L’app può usare fotocamera, libreria e feedback aptico opzionale, sul dispositivo. I permessi si gestiscono in Impostazioni.
 
-Contatto: **rtx3070757@gmail.com**
+6. **Non è medico:** Non fornisce consigli, diagnosi o trattamenti medici. Riconoscimento e calibrazione servono solo a configurare questa app.
+
+7. **Supporto:** rtx3070757@gmail.com
 
 ---
 
@@ -228,21 +258,24 @@ Contatto: **rtx3070757@gmail.com**
 
 **آخر تحديث: 5 سبتمبر 2026**
 
-يساعد **SeeClear** على تمييز الألوان. تبقى الصور والكاميرا والتعرّف والتحليل على جهازك ولا تُرفع.
+1. **الغرض:** يساعد SeeClear على تمييز الألوان: التعرّف وتحسين الألوان وتقييم الصور وألوان الملابس.
 
-التطبيق ليس دون اتصال بالكامل: المشتريات داخل التطبيق تتصل بـ Apple، وقد تُرسل إحصاءات استخدام مجهولة ومحدودة.
+2. **الخصوصية:** لا يجمع SeeClear بياناتك الشخصية ولا يخزّنها ولا يبيعها ولا يشاركها. التطبيق مصمّم للاستخدام دون اتصال. الطلبات الشبكية الوحيدة هي الإحصاءات المجهولة المحدودة في القسم 3.
 
-لتحسين المنتج تسجّل **Aptabase** (الاتحاد الأوروبي) الوظيفة التي فتحتها، وما إذا وُجدت نتيجة، ومدى مدة البقاء، وما إذا ظهر جدار دفع أو اكتملت عملية شراء. خيارات ثابتة فقط. بلا صور أو ألوان محددة أو إجابات المعايرة أو اسم أو بريد أو معرّف إعلاني.
+3. **إحصاءات مجهولة:** لتحسين المنتج تسجّل **Aptabase** (الاتحاد الأوروبي) الوظيفة التي فتحتها، وما إذا وُجدت نتيجة، ومدى مدة البقاء، وما إذا ظهر جدار دفع أو اكتملت عملية شراء. خيارات ثابتة وفترات زمنية فقط. بلا صور أو ألوان محددة أو إجابات المعايرة أو هوية أو معرّف إعلاني. إذا ثبّت بعد النقر على إعلان App Store، قد تُرجع واجهة الإسناد الرسمية من Apple رقم الكلمة المفتاحية والدولة لقياس الإعلانات. لا يمكن ربط ذلك بك. يمكنك إيقاف الإحصاءات بتقييد شبكة SeeClear من الإعدادات.
 
-قد يضيف الـ SDK معرّف جلسة مؤقتًا وإصدار التطبيق/النظام والطراز واللغة. قد تستخدم Aptabase عنوان IP وUser-Agent لتقدير منطقة تقريبية. لا يمكن ربط ذلك بهويتك. [سياسة Aptabase](https://aptabase.com/legal/privacy)
+4. **بيانات على الجهاز:** تبقى الصور والكاميرا والتعرّف والتحسين والتقييم وتحليل الملابس على جهازك، وكذلك التفضيلات والمرات المجانية وحالة Pro.
 
-إذا ثبّت بعد النقر على إعلان App Store، قد تُرجع واجهة الإسناد الرسمية من Apple ما إذا كان التثبيت من إعلان والدولة/المنطقة وأرقام الحملة/الكلمة المفتاحية. نستخدم ذلك لقياس الإعلانات. بلا عبارة البحث الأصلية وبلا ربط بهويتك.
-
+لا تُرفع صورك ونتائجك إلى أي خادم.
+لا حاجة إلى حساب.
+لا نتتبّع ما تفعله خارج التطبيق.
 تعالج Apple المشتريات. لا نستلم رقم بطاقتك أو عنوان الفوترة.
 
-لا إعلانات ولا حساب ولا تتبع عبر تطبيقات شركات أخرى. يمكنك إيقاف الإحصاءات بقطع شبكة SeeClear من الإعدادات.
+5. **الكاميرا والصور والاهتزاز:** قد يستخدم التطبيق الكاميرا ومكتبة الصور واهتزازًا اختياريًا على الجهاز. تُدار الأذونات من الإعدادات.
 
-التواصل: **rtx3070757@gmail.com**
+6. **ليس طبيًا:** لا يقدّم نصيحة أو تشخيصًا أو علاجًا طبيًا. التعرّف والمعايرة لإعداد هذا التطبيق فقط.
+
+7. **الدعم:** rtx3070757@gmail.com
 
 ---
 
@@ -250,21 +283,24 @@ Contatto: **rtx3070757@gmail.com**
 
 **अंतिम अपडेट: 5 सितंबर 2026**
 
-**SeeClear** रंग पहचानने में मदद करता है। फ़ोटो, कैमरा, पहचान और विश्लेषण डिवाइस पर रहते हैं, अपलोड नहीं होते।
+1. **उपयोग:** SeeClear रंग पहचानने में मदद करता है: पहचान, रंग सुधार, फोटो स्कोर और कपड़ों के रंग।
 
-ऐप पूरी तरह ऑफ़लाइन नहीं है: इन-ऐप खरीद Apple से जुड़ती है, और सीमित अनाम उपयोग आँकड़े भेजे जा सकते हैं।
+2. **गोपनीयता:** SeeClear आपका कोई व्यक्तिगत डेटा इकट्ठा, संग्रहीत, बेचता या साझा नहीं करता। ऐप ऑफ़लाइन उपयोग के लिए बना है। नेटवर्क अनुरोध केवल खंड 3 की सीमित अनाम आँकड़े हैं।
 
-उत्पाद सुधार के लिए **Aptabase** (EU) दर्ज करता है कि कौन-सा फ़ीचर खोला, परिणाम मिला या नहीं, ठहरने का समय-अंतराल, पेवॉल दिखा या खरीद पूरी हुई। केवल तय विकल्प। फ़ोटो, खास रंग, कैलिब्रेशन के जवाब, नाम, ईमेल या विज्ञापन ID नहीं।
+3. **अनाम उपयोग आँकड़े:** उत्पाद सुधार के लिए **Aptabase** (EU) दर्ज करता है कि कौन-सा फ़ीचर खोला, परिणाम मिला या नहीं, ठहरने का समय-अंतराल, पेवॉल दिखा या खरीद पूरी हुई। केवल तय विकल्प और समय-अंतराल। फ़ोटो, खास रंग, कैलिब्रेशन के जवाब, पहचान या विज्ञापन ID नहीं। App Store विज्ञापन टैप करके इंस्टॉल करने पर Apple की आधिकारिक एट्रिब्यूशन API कीवर्ड संख्या और देश बता सकती है, विज्ञापन मापने के लिए। यह आपसे नहीं जुड़ता। सेटिंग में SeeClear का नेटवर्क बंद कर आँकड़े रोक सकते हैं।
 
-SDK अस्थायी सेशन ID, ऐप/OS संस्करण, मॉडल और भाषा जोड़ सकता है। Aptabase IP और User-Agent से मोटा क्षेत्र अनुमान लगा सकता है। इससे आपकी पहचान नहीं होती। [Aptabase नीति](https://aptabase.com/legal/privacy)
+4. **डिवाइस पर डेटा:** फ़ोटो, कैमरा, पहचान, सुधार, स्कोर और कपड़ों का विश्लेषण डिवाइस पर रहते हैं। पसंद, मुफ्त बार और Pro स्थिति भी यहीं।
 
-App Store विज्ञापन टैप करके इंस्टॉल करने पर Apple की आधिकारिक एट्रिब्यूशन API विज्ञापन से आया या नहीं, देश/क्षेत्र और कैंपेन/कीवर्ड संख्या बता सकती है। विज्ञापन मापने के लिए। खोज वाक्य और आपकी पहचान नहीं।
+आपके फ़ोटो और नतीजे किसी सर्वर पर नहीं जाते।
+खाता नहीं चाहिए।
+ऐप के बाहर आपको ट्रैक नहीं करते।
+खरीद Apple संभालता है। कार्ड या बिलिंग पता हमें नहीं मिलता।
 
-खरीद Apple संभालता है। हमें कार्ड नंबर या बिलिंग पता नहीं मिलता।
+5. **कैमरा, फ़ोटो और हैप्टिक:** ऐप कैमरा, फ़ोटो लाइब्रेरी और वैकल्पिक हैप्टिक इस्तेमाल कर सकता है, डिवाइस पर। अनुमतियाँ सेटिंग में।
 
-कोई विज्ञापन नहीं, कोई खाता नहीं, दूसरी कंपनियों के ऐप में ट्रैकिंग नहीं। सेटिंग में SeeClear का नेटवर्क बंद कर आँकड़े रोक सकते हैं।
+6. **चिकित्सा नहीं:** चिकित्सा सलाह, निदान या इलाज नहीं। पहचान और कैलिब्रेशन सिर्फ इस ऐप की सेटिंग के लिए।
 
-संपर्क: **rtx3070757@gmail.com**
+7. **सहायता:** rtx3070757@gmail.com
 
 ---
 
@@ -272,18 +308,21 @@ App Store विज्ञापन टैप करके इंस्टॉल 
 
 **Обновлено: 5 сентября 2026**
 
-**SeeClear** помогает различать цвета. Фото, камера, распознавание и анализ остаются на устройстве и не загружаются.
+1. **Назначение:** SeeClear помогает различать цвета: распознавание, улучшение цвета, оценка фото и цвета одежды.
 
-Приложение не полностью офлайн: покупки идут через Apple, также могут отправляться ограниченные анонимные статистики.
+2. **Конфиденциальность:** SeeClear не собирает, не хранит, не продаёт и не передаёт ваши личные данные. Приложение рассчитано на офлайн-использование. Единственные сетевые запросы — ограниченные анонимные статистики из раздела 3.
 
-Для улучшения продукта **Aptabase** (ЕС) записывает, какую функцию открыли, был ли результат, интервал времени, показался ли paywall или завершилась покупка. Только фиксированные варианты. Без фото, конкретных цветов, ответов калибровки, имени, почты и рекламного ID.
+3. **Анонимная статистика:** Для улучшения продукта **Aptabase** (ЕС) записывает, какую функцию открыли, был ли результат, интервал времени, показался ли paywall или завершилась покупка. Только фиксированные варианты и интервалы. Без фото, конкретных цветов, ответов калибровки, личности и рекламного ID. Если установка после объявления App Store, официальный API атрибуции Apple может вернуть номер ключевого слова и страну — чтобы оценить рекламу. К вам это не привязывается. Статистику можно отключить, запретив SeeClear сеть в Настройках.
 
-SDK может добавить временный ID сессии, версию приложения/ОС, модель и язык. Aptabase может использовать IP и User-Agent для грубого региона. Это не позволяет вас опознать. [Политика Aptabase](https://aptabase.com/legal/privacy)
+4. **Данные на устройстве:** Фото, камера, распознавание, улучшение, оценка и анализ одежды остаются на устройстве. Настройки, бесплатные попытки и статус Pro — тоже.
 
-Если установка после объявления App Store, официальный API атрибуции Apple может вернуть, была ли установка с рекламы, страну/регион и числовые ID кампании/ключа. Это для оценки рекламы. Без текста запроса и без идентификации личности.
-
+Ваши фото и результаты никуда не загружаются.
+Аккаунт не нужен.
+Мы не следим за вами вне приложения.
 Покупки обрабатывает Apple. Номер карты и адрес счёта мы не получаем.
 
-Нет рекламы, аккаунта и сквозного трекинга в чужих приложениях. Статистику можно отключить, запретив SeeClear сеть в Настройках.
+5. **Камера, фото и тактильная отдача:** Приложение может использовать камеру, медиатеку и необязательную тактильную отдачу на устройстве. Разрешения — в Настройках.
 
-Контакт: **rtx3070757@gmail.com**
+6. **Не медицина:** Нет медицинских советов, диагноза или лечения. Распознавание и калибровка только для настройки этого приложения.
+
+7. **Поддержка:** rtx3070757@gmail.com
